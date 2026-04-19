@@ -1,8 +1,6 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title>
-      Tab 1
-    </ion-title>
+    <ion-title>Tab 1</ion-title>
   </ion-toolbar>
 </ion-header>
 
@@ -13,5 +11,11 @@
     </ion-toolbar>
   </ion-header>
 
-  <app-explore-container name="Tab 1 page"></app-explore-container>
+  <div class="center-container">
+    <ion-button shape="round" (click)="mostrarAlerta()">
+      <ion-icon name="notifications-outline" slot="start"></ion-icon>
+      Mostrar Mensaje
+    </ion-button>
+  </div>
+
 </ion-content>
