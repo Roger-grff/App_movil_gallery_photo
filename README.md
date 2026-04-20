@@ -1,3 +1,4 @@
+apk del siguiente proyecto: https://drive.google.com/file/d/1Q2LG0idL-ycB-RBJt3--cONHDW6ViTus/view?usp=sharing
 video de sugerencia: https://www.youtube.com/watch?v=WW11WQVuS8s
 
 Teniendo nuestra base principal de la aplicacion nos dirigimos a la documentación de capacitor, especificamente al de @capacitor/splash-screen
