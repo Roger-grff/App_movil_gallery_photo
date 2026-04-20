@@ -1,3 +1,6 @@
+<img width="363" height="490" alt="WhatsApp Image 2026-04-19 at 20 20 52" src="https://github.com/user-attachments/assets/6cffa241-5154-475f-b0d0-232ad9186e75" />
+<img width="1080" height="2340" alt="WhatsApp Image 2026-04-19 at 20 20 52 (1)" src="https://github.com/user-attachments/assets/b9e85482-3536-4938-a9bc-b6491cc3b2ec" />
+
 Teniendo nuestra base principal de la aplicacion nos dirigimos a la documentación de capacitor, especificamente al de @capacitor/splash-screen
 
 insralamos lo siguiente:      
